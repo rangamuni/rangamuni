@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rangamuni&color=0e75b6)
 
-# 🚀 Rangamuni - Advanced Data Science Professional
+# 🚀 Rangamuni - Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Transforming+Data+Into+Business+Impact;Building+Production+ML+Systems;Solving+Complex+Data+Challenges;Driving+Innovation+Through+AI" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ## 💡 Who I Am
 
-I'm an advanced Data Science professional specializing in **machine learning systems, predictive analytics, and data-driven innovation**. With expertise in building end-to-end ML pipelines, I transform raw data into actionable business insights that drive measurable impact.
+I'm a Data Science professional specializing in **machine learning systems, predictive analytics, and data-driven innovation**. With expertise in building end-to-end ML pipelines, I transform raw data into actionable business insights that drive measurable impact.
 
 **Currently:** 🎓 Finalizing advanced Data Science certification | 🚀 Ready to lead data initiatives
 
